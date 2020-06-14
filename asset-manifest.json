@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-holiday-lister/static/css/main.12f55f88.chunk.css",
+    "main.js": "/react-holiday-lister/static/js/main.ddcc95c1.chunk.js",
+    "main.js.map": "/react-holiday-lister/static/js/main.ddcc95c1.chunk.js.map",
+    "runtime-main.js": "/react-holiday-lister/static/js/runtime-main.05c2fc07.js",
+    "runtime-main.js.map": "/react-holiday-lister/static/js/runtime-main.05c2fc07.js.map",
+    "static/js/2.74c1eeb4.chunk.js": "/react-holiday-lister/static/js/2.74c1eeb4.chunk.js",
+    "static/js/2.74c1eeb4.chunk.js.map": "/react-holiday-lister/static/js/2.74c1eeb4.chunk.js.map",
+    "index.html": "/react-holiday-lister/index.html",
+    "precache-manifest.5beca8ee246d6482301fd8ff11ffce3a.js": "/react-holiday-lister/precache-manifest.5beca8ee246d6482301fd8ff11ffce3a.js",
+    "service-worker.js": "/react-holiday-lister/service-worker.js",
+    "static/css/main.12f55f88.chunk.css.map": "/react-holiday-lister/static/css/main.12f55f88.chunk.css.map",
+    "static/js/2.74c1eeb4.chunk.js.LICENSE.txt": "/react-holiday-lister/static/js/2.74c1eeb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05c2fc07.js",
+    "static/js/2.74c1eeb4.chunk.js",
+    "static/css/main.12f55f88.chunk.css",
+    "static/js/main.ddcc95c1.chunk.js"
+  ]
+}
